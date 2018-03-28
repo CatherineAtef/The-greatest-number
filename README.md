@@ -1,11 +1,14 @@
 # The-greatest-number
-It shows you the greatest number 
+The following program can be used to find the greatest number out of three inputed numbers. 
+
+```
 #include <iostream>
 
 using namespace std;
 
 int main()
 {
+    
     int a;
     int b;
     int c;
@@ -22,3 +25,4 @@ int main()
     }
     return 0;
 }
+```
